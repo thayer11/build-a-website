@@ -1,0 +1,49 @@
+body {
+  font-family: "Times New Roman";
+  margin: 0;
+  background-color: seagreen;
+  text-align: center;
+	}
+  
+  h1 {
+  text-align:center 
+  text-transform: uppercase;
+  font-weight: bold;]
+
+  }
+
+div {
+
+    position:inline;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+
+}
+
+.relaxr{
+	padding: 10px 50px 10px 50px;
+	border:10px;
+	
+}
+
+.startup{
+	padding:50, 100;
+	border:100;
+}
+
+.citipix{
+	padding:50, 100;
+	border:100;
+}
+.text{
+	padding-left: 20px;
+	height: 300px;
+	width: 300px;
+	float: left;
+}
+.textimage {
+	height: 300px;
+	width: 300px;
+	float: left;
+}
